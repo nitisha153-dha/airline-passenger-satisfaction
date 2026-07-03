@@ -1,4 +1,4 @@
-# airline-passenger-satisfaction
+# Airline-Passenger-Satisfaction
 Predicting customer satisfaction for Invistico Airlines using machine learning, and identifying the service factors that matter most to passengers.
 ---
 ## Business Problem
